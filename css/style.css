@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+}
+nav{
+    background-color:rgb(233, 77, 20);
+    display: flex;
+}
+.headimg{
+    padding: 5%;
+    
+}
+.headers h1{
+    font-size: 80px;
+    font-family: 'Kaushan Script', cursive;
+    color: aliceblue;
+    letter-spacing: 0.3cm;
+
+}
+.headers h5{
+    font-size: 20px;
+    font-family: 'Amiri', serif;
+    color: aliceblue;
+    letter-spacing: 0.09cm;
+}
+main{
+    text-align: center;
+}
+.verse1 {
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    background-color: rgb(194, 226, 226);
+    padding: 2%;
+    letter-spacing: 0.05cm;
+}
+.chorus {
+    font-family: 'Montserrat', sans-serif;
+    background-color:antiquewhite;
+    padding: 2%;
+    font-style:unset;
+    letter-spacing: 0.03cm;
+}
+.verse2 {
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    background-color: rgb(194, 226, 226);
+    padding: 2%;
+    letter-spacing: 0.05cm;
+}
+.bridge{
+    font-family: 'Roboto', sans-serif;
+    font-style: oblique;
+}
+
+.sun{
+    color: rgb(184, 184, 5);
+    font-weight: 900;
+    font-size: 40px;
+}
+.purple{
+    color: blueviolet;
+    font-weight: bolder;
+    font-family: 'Kalam', cursive;
+    font-size: 25px;
+}
+.fuck{
+    text-decoration: line-through;
+    font-weight: bold;
+    color: red;
+    font-size: large;
+    font-family: 'Permanent Marker', cursive;
+}
+.phrase{
+    font-family: 'Handjet', cursive;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+
+}
